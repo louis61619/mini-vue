@@ -1,4 +1,3 @@
 ﻿# mini-vue
-if you want learn more you can see my blog
 
-myblog: https://www.mycoderland.tw/detail/27
+create a simple vue by myself
